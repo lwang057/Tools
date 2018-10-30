@@ -14,7 +14,7 @@ import java.util.Random;
 /**
  * @author lwang
  * @date 2018/09/28
- * @description
+ * @description 设备信息工具类
  */
 public class DeviceUtils {
 
